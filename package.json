@@ -50,7 +50,7 @@
   "devDependencies": {
     "@commitlint/cli": "17.0.3",
     "@commitlint/config-conventional": "17.0.3",
-    "@octokit/types": "6.34.0",
+    "@octokit/types": "6.40.0",
     "@typescript-eslint/eslint-plugin": "4.33.0",
     "@typescript-eslint/parser": "4.33.0",
     "@vercel/ncc": "0.34.0",
